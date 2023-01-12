@@ -1,5 +1,11 @@
 /*
-LeetCode Solution
+LeetCode Solution using set.
+
+explaination: 
+
+1. create a set.
+2. then find the that number in set if not present in set then push the element in set, if it found in the set means it repeating. And if it's repesting return true other wise false.
+
 */
 
 class Solution
